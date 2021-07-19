@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xomayhem
-- 👀 I’m interested in CyberSecurity and InfoSec
-- 🌱 I’m currently learning Python and powershell
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @xomayhem AKA Noah P
+- 👀 I’m interested in CyberSecurity and DevOps
+- 🌱 I’m currently learning Kubernetes & SALT Stack
+- 💞️ I’m looking to collaborate on anything full stack or DevOps related
+- 📫 Email me at contact@noahp.dev
 
 <!---
 xomayhem/xomayhem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
